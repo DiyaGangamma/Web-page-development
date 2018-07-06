@@ -1,0 +1,9 @@
+body{
+	margin: 40px;
+	border: 0;
+	background-color: white;
+	color: red;
+	background: url('Untitled.png') no-repeat right top;
+
+	font-family: Helvetica;
+}
